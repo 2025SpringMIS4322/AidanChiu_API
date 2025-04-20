@@ -1,1 +1,6 @@
 .venv/
+hn.json
+hn2.json
+keys.py
+output.json
+python_repos.html
